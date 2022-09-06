@@ -4,4 +4,5 @@
     --linear-gradient:linear-gradient(to right,rgb(244, 107, 69,0.4), rgba(238, 168, 73,0.4));
     --black-color: #000;
     --whtie-color:#fff;
+    --blackborder:3px solid var(--black-color);
 }
