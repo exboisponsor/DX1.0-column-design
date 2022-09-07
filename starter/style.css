@@ -104,6 +104,9 @@ span{
 
 /* ==== third section starts here ==== */
 .thirdsection{
+    padding: 30px 0;
+    /* height: 300px; */
+border:var(--black-border);
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -120,13 +123,28 @@ span{
     height: 460px;
     width: 340px;
 }
-.thirdsection-rightdiv p{
-    text-align: left;
-    margin: 20px 0;
-}
 /* ==== third section ends here ==== */
 
+
 /* ==== footer section starts here ==== */
+footer{
+    color: var(--whtie-color);
+    background: var(--main-color);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 30px 30px;
+}
+.footericons-container{
+    /* height: 100px; */
+    text-align: center;
+    /* border: 3px solid black; */
+    width: 200px;
+}
+.footer-icons{
+    font-size: 25px;
+    margin: 0 5px;
+}
 /* ==== footer section ends here ==== */
 
 
