@@ -110,6 +110,7 @@ border:var(--black-border);
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    background: var(--gray-color);
     /* border: var(--blackborder); */
 
 }
@@ -122,6 +123,7 @@ border:var(--black-border);
     background: var(--main-color);
     height: 460px;
     width: 340px;
+    padding: 40px 20px;
 }
 /* ==== third section ends here ==== */
 

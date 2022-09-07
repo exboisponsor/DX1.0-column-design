@@ -1,0 +1,65 @@
+
+
+
+@media screen and (max-width:550px) {
+   
+
+/* ==== first section starts here ==== */
+.firstsection{
+    height: 520px;
+}
+.firstsection-leftdiv{
+width: 60%;
+padding: 20px;
+
+}
+.firstsection-leftdiv h1{
+    font-size: 25px;
+}
+.firstsection-rightdiv{
+    width: 40%;
+}
+.link-holder{
+    padding-left: 30px;
+    /* border: 3px solid black; */
+    flex-direction: column;
+}
+.link-holder h4{
+    margin-bottom: 10px;
+}
+.line{
+    width: 200px;
+    
+}
+/* ==== first section ends here ==== */
+
+}
+
+/* ==== second section starts here ==== */
+.secondsection{
+    flex-direction: column;
+}
+.secondsection-rightdiv{
+    margin-left:0px ;
+
+    margin-top: 30px;
+}
+/* ==== second section ends here ==== */
+
+ /* ==== third section starts here ==== */
+ .thirdsection{
+    flex-direction: column-reverse;
+    align-items: center;
+
+ }
+ .thirdsection-leftdiv{
+    margin-top: 30px;
+
+ }
+/* ==== third section ends here ==== */
+
+/* ==== footer section starts here ==== */
+footer{
+    flex-direction: column;
+    text-align: center;
+}
