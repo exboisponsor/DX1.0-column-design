@@ -33,7 +33,6 @@ padding: 20px;
 }
 /* ==== first section ends here ==== */
 
-}
 
 /* ==== second section starts here ==== */
 .secondsection{
@@ -62,4 +61,5 @@ padding: 20px;
 footer{
     flex-direction: column;
     text-align: center;
+}
 }
